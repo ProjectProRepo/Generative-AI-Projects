@@ -49,6 +49,10 @@ By completing this project, you will:
 
 Azure services may incur costs based on resource usage. Review Azure pricing documentation to avoid unexpected charges.
 
+## Project Link
+
+[Customer Support Agent using AzureML and OpenAI](https://www.projectpro.io/project-use-case/customer-support-agent-using-azureml-and-openai)
+
 ## Next Steps
 
 - Explore enhancements like integrating additional ML models.
