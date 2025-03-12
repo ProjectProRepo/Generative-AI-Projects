@@ -65,7 +65,7 @@ By completing this project, you will:
 
 ## Project Link
 
-[Llama2 Project for Metadata Generation using FAISS and RAGs](<#https://www.projectpro.io/project-use-case/llama2-project-for-metadata-generation-model>)
+[Llama2 Project for Metadata Generation using FAISS and RAGs](#<https://www.projectpro.io/project-use-case/llama2-project-for-metadata-generation-model>)
 
 ## Next Steps
 
