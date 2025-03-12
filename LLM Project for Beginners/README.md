@@ -62,7 +62,7 @@ By completing this project, you will:
 
 ## Project Link
 
-[LLM Project to Build and Fine-Tune a Large Language Model](<#https://www.projectpro.io/project-use-case/llm-project-for-beginners-to-build-and-fine-tune-an-llm>)
+[LLM Project to Build and Fine-Tune a Large Language Model](<https://www.projectpro.io/project-use-case/llm-project-for-beginners-to-build-and-fine-tune-an-llm>)
 
 ## Next Steps
 
