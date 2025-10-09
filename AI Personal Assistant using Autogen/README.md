@@ -2,7 +2,7 @@
 
 ## Overview
 
-Modern digital life involves juggling dozens of tools—emails, calendars, weather apps, and browsers—all aimed at improving productivity. Ironically, this abundance of tools often leads to fragmented workflows, wasted time, and decreased focus. The problem isn’t the tools themselves but the lack of a unified system that can intelligently coordinate and automate tasks across them.
+Modern digital life involves juggling dozens of tools: emails, calendars, weather apps, and browsers, all aimed at improving productivity. Ironically, this abundance of tools often leads to fragmented workflows, wasted time, and decreased focus. The problem isn’t the tools themselves but the lack of a unified system that can intelligently coordinate and automate tasks across them.
 
 This project introduces an **AI-powered personal assistant** built with **AutoGen**, a powerful framework for designing and orchestrating multi-agent systems. You will learn to create a network of AI agents that can handle day-to-day tasks such as managing emails, scheduling meetings, checking the weather, conducting research, and setting reminders—all through a natural conversational interface.  
 
